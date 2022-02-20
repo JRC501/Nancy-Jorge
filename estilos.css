@@ -3,13 +3,25 @@ body{
   font-family: 'Noto Sans', sans-serif;
   background-image: url(https://images.pexels.com/photos/7232493/pexels-photo-7232493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 }
-h1,h2,h3,h5,h6{
+h1{
   color:rgb(255, 255, 255);
   font-family: 'Dancing Script', cursive;
+  font-size: 4em;
+}
+h2,h3,h5,h6{
+  color:rgb(255, 255, 255);
+  font-family: 'Dancing Script', cursive;
+  font-size: xx-large;
 }
 h4{
   color:rgb(0, 0, 0);
   font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+}
+h8{
+  color:rgb(0, 4, 22);
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
 }
 
 .navbar-brand{
@@ -29,6 +41,17 @@ h4{
   background-blend-mode: darken;
   padding: 10%;
 }
+.cover-page{
+  height: 200px;
+  background-image: url(https://github.com/JRC501/web/blob/main/fotos/jorgeynancy.jpeg?raw=true);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(14, 5, 8, 0.7);
+  background-blend-mode: darken;
+  padding: 10%;
+}
+
 .card-body{
   height: 455px;
   background-image: url(https://images.pexels.com/photos/2253842/pexels-photo-2253842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
