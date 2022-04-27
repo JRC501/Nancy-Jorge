@@ -1,0 +1,161 @@
+body{
+  margin: 0em;
+  font-family: 'Noto Sans', sans-serif;
+  /* background-image: url(https://images.unsplash.com/photo-1515339760107-1952b7a08454?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80); */
+}
+h1{
+  color:rgb(255, 255, 255);
+  font-family: 'Dancing Script', cursive;
+  font-size: 4em;
+}
+h2,h3,h5,h6{
+  color:rgb(255, 255, 255);
+  font-family: 'Dancing Script', cursive;
+  font-size: xx-large;
+}
+h4{
+  color:rgb(0, 0, 0);
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+}
+h8{
+  color:rgb(0, 10, 53);
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+}
+h9{
+  color:rgb(95, 1, 56);
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
+}
+p5{
+  color:rgb(0, 0, 0);
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5em;
+}
+
+.navbar-brand{
+  padding-left: 3rem;
+}
+.nav-link{
+  padding-left: 3rem;
+}
+
+.cover{
+  height: 450px;
+  /* background-image: url(https://github.com/JRC501/web/blob/main/fotos/jorgeynancy.jpeg?raw=true); */
+  background-image: url(fotos/jorgeynancy.jpeg);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(14, 5, 8, 0.7);
+  background-blend-mode: darken;
+  padding: 10%;
+}
+.cover-page{
+  height: 400px;
+  /* background-image: url(https://github.com/JRC501/web/blob/main/fotos/jorgeynancy.jpeg?raw=true); */
+  background-image: url(fotos/jorgeynancy.jpeg);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(14, 5, 8, 0.7);
+  background-blend-mode: darken;
+  padding: 10%;
+}
+
+.fotos{
+  height: 450px;
+  /* background-image: url(https://github.com/JRC501/web/blob/main/fotos/jorgeynancy.jpeg?raw=true); */
+  background-image: url(FotosBoda/jorgito/DSC_0317.JPG);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(14, 5, 8, 0.7);
+  background-blend-mode: darken;
+  padding: 10%;
+}
+
+.bloque{
+  /* background-image: url(https://images.pexels.com/photos/7232493/pexels-photo-7232493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+  background-image: url(fotos/fondo.jpeg);
+  background-size: cover;
+  background-position: center;
+  /* background-color: rgba(0, 0, 0, 0.219);
+  background-blend-mode: darken; */
+  padding: 1%;
+}
+.pie{
+  background-image: url(https://images.unsplash.com/photo-1515339760107-1952b7a08454?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80);
+  /* background-image: url(fotos/fondo.jpeg); */
+  background-size: cover;
+  background-position: center;
+  padding: 1%;
+}
+
+.card-body{
+  height: 455px;
+  /* background-image: url(https://images.pexels.com/photos/2253842/pexels-photo-2253842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
+  background-image: url(fotos/vestido.jpg);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: #0a0206b3;
+  background-blend-mode: darken;
+  padding: 8%;
+}
+.card-cuerpo{
+  height: 455px;
+  /* background-image: url(https://images.pexels.com/photos/5005252/pexels-photo-5005252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
+  background-image: url(fotos/Fiesta.jpg);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0,0,0,0.7);
+  background-blend-mode: darken;
+  padding: 8%;
+}
+
+.card-fotos{
+  height: 455px;
+  /* background-image: url(https://images.pexels.com/photos/5005252/pexels-photo-5005252.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260); */
+  background-image: url(FotosBoda/jorgito/DSC_0323.JPG);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0,0,0,0.7);
+  background-blend-mode: darken;
+  padding: 8%;
+}
+
+.card{
+  border: o !important;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.6), 0 2px 4px -1px rgba(0,0,0,0.6);
+}
+.card-title{
+  min-height: 3rem;
+}
+.card-text{
+  min-height: 2rem;
+}
+
+.responsive-iframe{
+  position: relative;
+  padding-top: 56.25%;
+}
+.responsive-iframe iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+footer{
+  background-color: rgb(34, 34, 34);
+  color: white;
+  align-self: flex-end;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+}
