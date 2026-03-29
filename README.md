@@ -36,9 +36,9 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 - Celebraciones
 - Invitaciones digitales personalizadas
 <div align="center">
-  <img src="images/preview.jpg" alt="Vista previa de la invitación de Baby Shower" width="500">
+  <img src="images/preview.jpg" alt="Vista previa de la invitación de Boda" width="500">
   <br>
-  <em>Invitación digital para celebrar la llegada del bebé</em>
+  <em>Invitación digital para celebración de boda</em>
 </div>
 
 ## 📚 Aprendizajes
@@ -50,11 +50,11 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 ## 👨‍💻 Autor
 **Juan Reyes**  
 💻 Ingeniería en Computación en formación  
-🎨 Interés en desarrollo web, diseño UI/UX y tecnología  
+🎨 Interés en desarrollo web y tecnología  
 📍 México  
 
 [![GitHub](https://img.shields.io/badge/GitHub-JRC501-181717?logo=github)](https://github.com/JRC501)
-[![Demo Baby Shower](https://img.shields.io/badge/🌐-Ver%20invitación-ffb6c1?style=flat-square)](https://jrc501.github.io/BabyShower/)
+[![Demo invitación de boda](https://img.shields.io/badge/🌐-Ver%20invitación-ffb6c1?style=flat-square)](https://jrc501.github.io/Nancy-Jorge/)
 
 ---
 
