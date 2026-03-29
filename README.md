@@ -1,4 +1,7 @@
 # 💍 Nancy & Jorge - Invitación Web
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-brightgreen)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 Proyecto desarrollado como práctica de desarrollo web para crear una página de invitación digital para un evento.
 
@@ -32,6 +35,11 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 - Bodas
 - Celebraciones
 - Invitaciones digitales personalizadas
+<div align="center">
+  <img src="images/preview.jpg" alt="Vista previa de la invitación de Baby Shower" width="500">
+  <br>
+  <em>Invitación digital para celebrar la llegada del bebé</em>
+</div>
 
 ## 📚 Aprendizajes
 - Estructuración de una página web en HTML
@@ -40,6 +48,14 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 - Diseño básico para invitaciones digitales
 
 ## 👨‍💻 Autor
-Juan Reyes  
-Ing. en Computación en formación  
-Interés en desarrollo web y tecnología
+**Juan Reyes**  
+💻 Ingeniería en Computación en formación  
+🎨 Interés en desarrollo web, diseño UI/UX y tecnología  
+📍 México  
+
+[![GitHub](https://img.shields.io/badge/GitHub-JRC501-181717?logo=github)](https://github.com/JRC501)
+[![Demo Baby Shower](https://img.shields.io/badge/🌐-Ver%20invitación-ffb6c1?style=flat-square)](https://jrc501.github.io/BabyShower/)
+
+---
+
+Hecho con 💙 
