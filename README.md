@@ -41,5 +41,5 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 
 ## 👨‍💻 Autor
 Juan Reyes  
-Ingeniero en Computación en formación  
+Ing. en Computación en formación  
 Interés en desarrollo web y tecnología
