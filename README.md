@@ -49,9 +49,9 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 
 ## 👨‍💻 Autor
 **Juan Reyes**  
-💻 Ingeniería en Computación en formación  
+💻 Ing. en Computación en formación  
 🎨 Interés en desarrollo web y tecnología  
-📍 México  
+📍 CDMX  
 
 [![GitHub](https://img.shields.io/badge/GitHub-JRC501-181717?logo=github)](https://github.com/JRC501)
 [![Demo invitación de boda](https://img.shields.io/badge/🌐-Ver%20invitación-ffb6c1?style=flat-square)](https://jrc501.github.io/Nancy-Jorge/)
