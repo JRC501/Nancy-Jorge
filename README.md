@@ -36,7 +36,7 @@ Este proyecto muestra una invitación digital que puede utilizarse como base par
 - Celebraciones
 - Invitaciones digitales personalizadas
 <div align="center">
-  <img src="images/preview.jpg" alt="Vista previa de la invitación de Boda" width="500">
+  <img src="fotos/preview.jpg" alt="Vista previa de la invitación de Boda" width="500">
   <br>
   <em>Invitación digital para celebración de boda</em>
 </div>
